@@ -45,9 +45,7 @@ imshow(f)
 ```
 
 
-!['noise1.png'
-](imagemanipulation01/noise1.png
-)
+!['noise1.png'](noise1.png)
 
 
 
@@ -81,9 +79,7 @@ imshow(image_f1)
 ```
 
 
-!['figure_1.png'
-](imagemanipulation01/figure_1.png
-)
+!['figure_1.png'](figure_1.png)
 
 
 
@@ -113,9 +109,7 @@ imshow(image_f2)
 ```
 
 
-!['figure_2.png'
-](imagemanipulation01/figure_2.png
-)
+!['figure_2.png'](figure_2.png)
 
 
 
@@ -130,7 +124,5 @@ imshow(image_f2)
 ```
 
 
-!['figure_3.png'
-](imagemanipulation01/figure_3.png
-)
+!['figure_3.png'](figure_3.png)
 
