@@ -45,8 +45,8 @@ imshow(f)
 ```
 
 
-!['/MATLAB Drive/imagemanipulation01_media/figure_0.png'
-](imagemanipulation01_media/'/MATLAB Drive/imagemanipulation01_media/figure_0.png'
+!['noise1.png'
+](imagemanipulation01/'noise1.png'
 )
 
 
@@ -81,8 +81,8 @@ imshow(image_f1)
 ```
 
 
-!['/MATLAB Drive/imagemanipulation01_media/figure_1.png'
-](imagemanipulation01_media/'/MATLAB Drive/imagemanipulation01_media/figure_1.png'
+!['figure_1.png'
+](imagemanipulation01/'figure_1.png'
 )
 
 
@@ -113,8 +113,8 @@ imshow(image_f2)
 ```
 
 
-!['/MATLAB Drive/imagemanipulation01_media/figure_2.png'
-](imagemanipulation01_media/'/MATLAB Drive/imagemanipulation01_media/figure_2.png'
+!['figure_2.png'
+](imagemanipulation01/'figure_2.png'
 )
 
 
@@ -130,7 +130,7 @@ imshow(image_f2)
 ```
 
 
-!['/MATLAB Drive/imagemanipulation01_media/figure_3.png'
-](imagemanipulation01_media/'/MATLAB Drive/imagemanipulation01_media/figure_3.png'
+!['figure_3.png'
+](imagemanipulation01/'figure_3.png'
 )
 
